@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 #
 
-eric is dik
+this is a test for school.
+
