@@ -1,12 +1,2 @@
-
-
-<!---
-NotMelsy/NotMelsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-#
-
-this is a test for school
-
+Follow me on ig: Melle_s10/NotMelsy;
+Follow me on Twitch: Notmelsy;
